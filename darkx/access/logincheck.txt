@@ -1,0 +1,68 @@
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : SDDSDS
+Passcode                               : DSDSDS
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 41.190.3.53
+IP Country	                       : Nigeria
+IP City	                                 : Lagos
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+TIME		                       : 05/01/2021 10:39:55pm GMT
+|-----------Darkx M&T Info--------------|
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : behbehbehbe
+Passcode                               : bdhdbhbdhdb
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 129.205.124.230
+IP Country	                       : 
+IP City	                                 : 
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+TIME		                       : 16/04/2022 08:13:55pm GMT
+|-----------Darkx M&T Info--------------|
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : dbbdbbddbbh
+Passcode                               : dbdbhbhdbdbd
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 129.205.124.230
+IP Country	                       : 
+IP City	                                 : 
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+TIME		                       : 16/04/2022 08:33:20pm GMT
+|-----------Darkx M&T Info--------------|
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : sbshbshbshbhsh
+Passcode                               : hsshbsshbhsbhs
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 129.205.124.230
+IP Country	                       : 
+IP City	                                 : 
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+TIME		                       : 16/04/2022 08:39:05pm GMT
+|-----------Darkx M&T Info--------------|
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : njnjenjejnjej
+Passcode                               : jnenjnjen
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 
+IP Country	                       : 
+IP City	                                 : 
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+TIME		                       : 17/04/2022 05:34:08am GMT
+|-----------Darkx M&T Info--------------|
+|------- Darkx M&T Info [Login Details] -----------|
+userID                                 : s sbbwbwhbhwb
+Passcode                               : wbhwbhbwh
+Routine Number                               : wbhbwwbb
+Account Number                               : wbwbhwbhwbw
+|--------------- I N F O | I P -------------------|
+IP Address	                       : 
+IP Country	                       : 
+IP City	                                 : 
+Browser		                       : Chrome on Windows 10
+User Agent	                       : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+TIME		                       : 17/04/2022 03:41:15pm GMT
+|-----------Darkx M&T Info--------------|
